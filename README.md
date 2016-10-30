@@ -13,11 +13,19 @@ Notebook can be viewed in github here: [notebook](https://github.com/benjaminirv
 - Python 3
 - Install RISE for an interactive presentation viewer
 
-**Get and run code**
+**Get**
 ```bash
 # Clone the repository
 git clone https://github.com/benjaminirving/mlseminars-autoencoders
 cd mlseminars-autoencoders
-# Run the notebook
+```
+
+**Run**
+```
 jupyter notebook
+```
+
+or
+```
+jupyter nbconvert --to slides Autoencoders.ipynb --post serve
 ```

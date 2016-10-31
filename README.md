@@ -2,7 +2,7 @@
 
 Slides for my autoencoder seminar
 
-Notebook can be viewed in github here: [notebook](https://github.com/benjaminirving/mlseminars-autoencoders/blob/master/Autoencoders.ipynb)
+Notebook can be viewed in github by clicking on [Autoencoders.ipynb](https://github.com/benjaminirving/mlseminars-autoencoders/blob/master/Autoencoders.ipynb)
 
 ## How to run these slides and examples yourself
 

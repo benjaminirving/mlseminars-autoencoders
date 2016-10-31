@@ -12,7 +12,8 @@ Notebook can be viewed in github here: [notebook](https://github.com/benjaminirv
 - Requirements: `numpy`, `keras`, `theano`, `jupyter`
 - Python 3
 - Probably Python 2 as well but I haven't bothered to test -- everyone should be using python 3 ;)
-- Install RISE for an interactive presentation viewer
+- Install RISE for an interactive presentation viewer 
+  - see install instructions here (https://github.com/damianavila/RISE) 
 
 **Get**
 ```bash

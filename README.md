@@ -27,7 +27,12 @@ cd mlseminars-autoencoders
 jupyter notebook
 ```
 
+**View in presentation mode using RISE**
+After running the notebook, click on the RISE button
+
 or
 ```
 jupyter nbconvert --to slides Autoencoders.ipynb --post serve
 ```
+
+

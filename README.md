@@ -30,7 +30,7 @@ cd mlseminars-autoencoders
 jupyter notebook
 ```
 
-**View in presentation mode using RISE**
+**View in presentation mode using RISE**   
 After running the notebook, click on the RISE button
 
 or

@@ -37,5 +37,6 @@ or
 ```
 jupyter nbconvert --to slides Autoencoders.ipynb --post serve
 ```
+(for a non interactive version)
 
 

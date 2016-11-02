@@ -4,6 +4,9 @@ Slides for my autoencoder seminar
 
 Notebook can be viewed in github by clicking on [Autoencoders.ipynb](https://github.com/benjaminirving/mlseminars-autoencoders/blob/master/Autoencoders.ipynb)
 
+or if you just want to look at the slide version:
+http://www.birving.com/presentations/autoencoders/index.html
+
 ## How to run these slides and examples yourself
 
 **Setup python environment**

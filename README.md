@@ -1,6 +1,6 @@
 # mlseminars-autoencoders
 
-Slides for my autoencoder seminar
+Slides for my autoencoder seminar. Code based heavily on the keras library examples and keras blog (blog.keras.io).
 
 Notebook can be viewed in github by clicking on [Autoencoders.ipynb](https://github.com/benjaminirving/mlseminars-autoencoders/blob/master/Autoencoders.ipynb)
 
